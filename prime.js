@@ -7,10 +7,4 @@ let num = 5;
         fact++;
     }
   }
-  if(fact == 2)
-  {
-    console.log("Prime");
-  }
-  else{
-    console.log("Not prime")
-  }
+ 
